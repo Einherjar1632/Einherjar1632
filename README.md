@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="left"> 
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Einherjar1632&show_icons=ture" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einherjar1632&layout=compact&show_icons=true" />
+</p>
+
 <!--
 **Einherjar1632/Einherjar1632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

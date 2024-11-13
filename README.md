@@ -1,20 +1,14 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 👋
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einherjar1632&layout=compact&show_icons=true" />
 </p>
 
-<!--
-**Einherjar1632/Einherjar1632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m a versatile developer skilled in frontend, server-side, and infrastructure. I approach projects from a business-oriented perspective, ensuring that solutions align with strategic goals.
 
-Here are some ideas to get you started:
+- 🌐 Full-stack developer experienced in frontend, server-side, and infrastructure.
+- 💼 Skilled in business strategy, with the ability to build systems from a business-oriented perspective.
+- 📱 Limited experience in mobile app and game development.
+- 📈 Passionate about stock investing, with a focus on Japanese individual stocks, global index funds, and a diversified portfolio including government bonds, corporate bonds, and REITs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and explore how technology and business can work together to create impactful solutions!

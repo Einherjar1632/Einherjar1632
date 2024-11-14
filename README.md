@@ -1,4 +1,4 @@
-## Welcome to My GitHub Profile! 👋
+## Hi There! 👋
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einherjar1632&layout=compact&show_icons=true" />
